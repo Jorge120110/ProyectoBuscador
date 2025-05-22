@@ -19,4 +19,4 @@ que el modelo Gpt 4o, siendo esta el doble de cara.
 Dentro de SQL se guarda el prompt completo dado al modelo y el tema investigado
 que fue ingresado por el usuario.
 
-##Esquema de base de datos:
+## Esquema de base de datos:
