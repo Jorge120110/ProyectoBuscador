@@ -20,3 +20,6 @@ Dentro de SQL se guarda el prompt completo dado al modelo y el tema investigado
 que fue ingresado por el usuario.
 
 ## Esquema de base de datos:
+
+
+![Diagrama de flujo](ProyectoBuscador/Imagen de WhatsApp 2025-05-22 a las 16.00.46_f2eff835.jpg) 
