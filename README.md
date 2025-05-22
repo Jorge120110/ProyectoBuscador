@@ -24,3 +24,4 @@ que fue ingresado por el usuario.
 
 ![Diagrama de flujo](esquema.jpg)
 
+Jorge Mario Cano Cobón    Carné: 0905 24 10433    Seccion: A
