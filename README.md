@@ -22,4 +22,4 @@ que fue ingresado por el usuario.
 ## Esquema de base de datos:
 
 
-![Diagrama de flujo](ProyectoBuscador/Imagen de WhatsApp 2025-05-22 a las 16.00.46_f2eff835.jpg) 
+![Diagrama de flujo](ProyectoBuscador/Imagen_de_WhatsApp_2025-05-22_a_las_16.00.46_f2eff835.jpg) 
