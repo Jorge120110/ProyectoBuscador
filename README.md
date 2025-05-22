@@ -7,9 +7,8 @@ fuente, el tamaño de la letra, la alineación del texto y la formación de los 
 
 Guarda la misma información dentro de una “presentación” que en realidad
 es un PDF con las dimensiones estándar de un PPT, esto ya que no logre crear un PPT que no estuviera corrupto, para crear esta presentación, utilice
-las librerías QuestPDF y QuestPDF Infrastructure, para poderbusarlas utilice la
-licencia publica para la comunidad, aunque solicite una cuenta gratuita para
-proyectos pequeños.
+las librerías QuestPDF y QuestPDF Infrastructure, para poder usarlas utilice la
+licencia publica para la comunidad.
 
 Para hacer el proyecto utilice la API de Open IA, utilizando el modelo o4 mini, que
 es, según la página de Open IA, mejor en razonamiento y con la misma velocidad
