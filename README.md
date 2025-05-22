@@ -1,4 +1,4 @@
-# Investigador
+#                                   Investigador
 Este proyecto lo hice, utilizando el mismo principio que el proyecto 2 para la
 conexión con la API (expuesto en clase), luego la información obtenida se guarda
 en una variable que además de mostrar en un RichTextBox (para mostrar bastante
